@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
             val m = Intent()
             m.action = Intent.ACTION_SENDTO
             m.data = Uri.parse("mailto:$email")
-            m.putExtra(Intent.EXTRA_SUBJECT,"Implicit Intent")
+            m.putExtra(Intent.EXTRA_SUBJECT,"Implicit Inent")
             startActivity(m)
         })
 
