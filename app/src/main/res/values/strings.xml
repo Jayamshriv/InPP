@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InPP</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="mail">Mail</string>
+    <string name="search">search</string>
+    <string name="dial">Dial</string>
+</resources>
